@@ -10,7 +10,8 @@
 <li><b>Multiplication.js</b>: Implements multiplication of elements in an array.</li>
 <li><b>RecursionPattern.js:</b> Demonstrates a Recursion technique using a number pattern.</li><br>
 <i><b>example output</b></i>
-  <img src = "https://github.com/user-attachments/assets/7db8b096-eea2-4ded-ae2f-7912768071fc">
+  <br>
+ <li><img src = "https://github.com/user-attachments/assets/7db8b096-eea2-4ded-ae2f-7912768071fc"></li> 
 
 
 </body>
